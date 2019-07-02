@@ -1,0 +1,21 @@
+---
+title: "README"
+author: "Henrique Paludetto"
+date: "01/07/2019"
+output: html_document
+---
+
+## Macroambiente econômico BR
+
+Este repositório traz gráficos com indicadores do macroambiente econômico brasileiro. Ele foi criado com um objetivo educacional: que eu aprenda R, além do seu caráter informativo, claro.
+
+Quem quiser colaborar com qualquer coisa para deixar isso melhor, vai ser massa!
+
+Obrigado.
+
+### Gráficos produzidos
+
+```{r graph}
+plot(p1)
+plot(p2)
+```
