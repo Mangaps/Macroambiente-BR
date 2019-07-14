@@ -35,3 +35,6 @@ grafico2 <- ggplot(pibdesoc, aes(x = Período, y=desoc))+
   geom_point()+
   labs(title = "Taxa de desocupação da população brasileira a partir de 2014", subtitle = "Em porcentagem", caption = "Fonte: Pesquisa Nacional por Amostra de Domicílios Contínua - PNAD Contínua (IBGE)")
 
+
+
+#render markdown rmarkdown::render("README.Rmd")
