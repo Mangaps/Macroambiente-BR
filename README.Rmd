@@ -16,6 +16,6 @@ Obrigado.
 ### Gráficos produzidos
 
 ```{r graph}
-plot(p1)
-plot(p2)
+plot(grafico1)
+plot(grafico2)
 ```
